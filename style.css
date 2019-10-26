@@ -1,0 +1,71 @@
+body {
+    background-image:url(../Passwordgen/assets/images1/wall4.png);
+}
+h1 {
+    text-align: center;
+    font-family:'Julius Sans One', sans-serif;
+    font-weight: bold;
+
+}
+
+textarea {
+    border-radius: 25px;
+    text-align: center;
+
+}   
+
+hr {
+    width: 900px;
+    background-color: gainsboro;
+}
+
+.container {
+    background-color: rgb(231, 212, 208);
+    width: 980px;
+    height: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+    margin-left: 190px;
+
+}
+
+.col-md1-12 {
+    margin-left: -600px;
+    padding-top: 25px ;
+}
+
+.col-md3-12 {
+    margin-left: 350px;
+    margin-top: 15px;
+}
+
+textarea {
+    border-radius: 15px;
+    margin-left: 20px;
+    
+}
+
+.generator {
+    width: 270px;
+    height: 70px;
+    margin-left: -300px;
+    margin-right: 280px;
+    border-radius: 30px;
+    font-size: 25px;
+    background-color: red;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.copier  {
+    width: 270px;
+    height: 70px;
+    margin-left: 50px;
+    border-radius: 30px;
+    font-size: 25px;
+    background-color: grey;
+    color: white;
+    margin-top: -100px;
+    margin-bottom: -80px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
